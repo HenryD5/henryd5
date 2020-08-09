@@ -1,5 +1,8 @@
 ### Hey there, I'm Henry! 👋
-![alt text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+| ------------ | ------------- |
+| | ![alt text](https://media.giphy.com/media/11UhXwm8Ipd9C/giphy.gif)|
+
 <!--
 **HenryD5/henryd5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
