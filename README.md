@@ -1,11 +1,11 @@
 ### Hey there, I'm Henry! 👋
-
+![alt text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 <!--
 **HenryD5/henryd5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
