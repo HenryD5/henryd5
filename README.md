@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Henry! 👋
 
 <!--
 **HenryD5/henryd5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
