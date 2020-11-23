@@ -1,6 +1,6 @@
 ### Hey there, I'm Henry! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <div  align="center">
-  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" >
+  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="150">
 </div>
 
 <!--
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <h2><i>My Github stats</i></h2>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenryD5&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Henry Yamunaque's github stats"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryD5&bg_color=071A2C&text_color=FFFFFF&layout=compact" alt="Henry Yamunaque's top langs" height="205">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenryD5&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Henry Yamunaque's github stats" height="150"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryD5&bg_color=071A2C&text_color=FFFFFF&layout=compact" alt="Henry Yamunaque's top langs" height="150">
 </p>
 
 
